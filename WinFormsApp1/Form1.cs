@@ -56,8 +56,8 @@ namespace WinFormsApp1
             }
 
             lblShow.Text = $"""
-            你購買了 {txtName.Text} {num} 件，共 {total} 元
-            {discountMsg}，折扣後共 {total * discount} 元
+            你購買了 {txtName.Text} {num} 件，共 {total} 元。
+            {discountMsg}，折扣後共 {total * discount} 元。
             """;
         }
 
