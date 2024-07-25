@@ -1,0 +1,17 @@
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\bin\Debug\net8.0-windows\prjnestFor.exe
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\bin\Debug\net8.0-windows\prjnestFor.deps.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\bin\Debug\net8.0-windows\prjnestFor.runtimeconfig.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\bin\Debug\net8.0-windows\prjnestFor.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\bin\Debug\net8.0-windows\prjnestFor.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\prjnestFor.Form1.resources
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\prjnestFor.csproj.GenerateResource.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\prjnestFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\prjnestFor.AssemblyInfoInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\prjnestFor.AssemblyInfo.cs
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\prjnestFor.csproj.CoreCompileInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\prjnestFor.sourcelink.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\prjnestFor.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\refint\prjnestFor.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\prjnestFor.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\prjnestFor.genruntimeconfig.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjnestFor\obj\Debug\net8.0-windows\ref\prjnestFor.dll
