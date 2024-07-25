@@ -1,0 +1,16 @@
+C:\Users\tingz\Desktop\c#\Wow\Wow\bin\Release\net8.0-windows\Wow.exe
+C:\Users\tingz\Desktop\c#\Wow\Wow\bin\Release\net8.0-windows\Wow.deps.json
+C:\Users\tingz\Desktop\c#\Wow\Wow\bin\Release\net8.0-windows\Wow.runtimeconfig.json
+C:\Users\tingz\Desktop\c#\Wow\Wow\bin\Release\net8.0-windows\Wow.dll
+C:\Users\tingz\Desktop\c#\Wow\Wow\bin\Release\net8.0-windows\Wow.pdb
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\Wow.Form1.resources
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\Wow.csproj.GenerateResource.cache
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\Wow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\Wow.AssemblyInfoInputs.cache
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\Wow.AssemblyInfo.cs
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\Wow.csproj.CoreCompileInputs.cache
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\Wow.dll
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\refint\Wow.dll
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\Wow.pdb
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\Wow.genruntimeconfig.cache
+C:\Users\tingz\Desktop\c#\Wow\Wow\obj\Release\net8.0-windows\ref\Wow.dll
