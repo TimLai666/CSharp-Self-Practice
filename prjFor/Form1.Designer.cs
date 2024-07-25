@@ -56,7 +56,7 @@
             // 
             AutoScaleDimensions = new SizeF(9F, 19F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(152, 140);
+            ClientSize = new Size(294, 140);
             Controls.Add(button2);
             Controls.Add(button1);
             Name = "Form1";
