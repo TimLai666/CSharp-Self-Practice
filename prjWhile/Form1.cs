@@ -10,9 +10,11 @@ namespace prjFor
         private void button1_Click(object sender, EventArgs e)
         {
             int sum = 0;
-            for (int i = 1; i <= 10; i++)
+            int i = 1;
+            while (i <= 10)
             {
                 sum += i;
+                i++;
             }
             MessageBox.Show("Sum of 1 to 10 is " + sum);
         }
@@ -20,10 +22,12 @@ namespace prjFor
         private void button2_Click(object sender, EventArgs e)
         {
             double sum = 0.0;
-            for (double i = 0.5; i <= 5.0; i+=0.5)
+            double i = 0.5;
+            do
             {
                 sum += i;
-            }
+                i += 0.5;
+            } while (i <= 5.0);
             MessageBox.Show("Sum of 0.5 to 5.0 is " + sum);
         }
     }
