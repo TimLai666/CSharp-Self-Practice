@@ -95,6 +95,7 @@
             button1.TabIndex = 6;
             button1.Text = "上一筆";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -104,6 +105,7 @@
             button2.TabIndex = 7;
             button2.Text = "下一筆";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // label4
             // 
