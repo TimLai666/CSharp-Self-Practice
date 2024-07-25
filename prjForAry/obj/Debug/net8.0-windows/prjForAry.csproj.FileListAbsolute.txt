@@ -1,0 +1,17 @@
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\bin\Debug\net8.0-windows\prjForAry.exe
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\bin\Debug\net8.0-windows\prjForAry.deps.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\bin\Debug\net8.0-windows\prjForAry.runtimeconfig.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\bin\Debug\net8.0-windows\prjForAry.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\bin\Debug\net8.0-windows\prjForAry.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\prjForAry.Form1.resources
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\prjForAry.csproj.GenerateResource.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\prjForAry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\prjForAry.AssemblyInfoInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\prjForAry.AssemblyInfo.cs
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\prjForAry.csproj.CoreCompileInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\prjForAry.sourcelink.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\prjForAry.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\refint\prjForAry.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\prjForAry.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\prjForAry.genruntimeconfig.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjForAry\obj\Debug\net8.0-windows\ref\prjForAry.dll
