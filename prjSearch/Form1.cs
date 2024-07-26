@@ -10,6 +10,20 @@ namespace prjSearch
         string[] id, names;
         int[] price;
 
+        int SearchAry(string[] ids, string myId)
+        {
+            string search = myId;
+            int index = -1;
+            for (int i = 0; i < ids.Length; i++)
+            {
+                if (ids[i].ToLower() == search.ToLower())
+                {
+                    index = i;
+                    break;
+                }
+            }
+            return index;
+        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -26,16 +40,7 @@ namespace prjSearch
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string search = textBox1.Text;
-            int index = -1;
-            for (int i = 0; i < id.Length; i++)
-            {
-                if (id[i].ToLower() == search.ToLower())
-                {
-                    index = i;
-                    break;
-                }
-            }
+            int index = SearchAry(id, textBox1.Text);
 
             if (index == -1)
             {
