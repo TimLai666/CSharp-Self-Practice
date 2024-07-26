@@ -1,0 +1,17 @@
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\bin\Debug\net8.0-windows\Stars.exe
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\bin\Debug\net8.0-windows\Stars.deps.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\bin\Debug\net8.0-windows\Stars.runtimeconfig.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\bin\Debug\net8.0-windows\Stars.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\bin\Debug\net8.0-windows\Stars.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\Stars.Form1.resources
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\Stars.csproj.GenerateResource.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\Stars.AssemblyInfoInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\Stars.AssemblyInfo.cs
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\Stars.csproj.CoreCompileInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\Stars.sourcelink.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\Stars.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\refint\Stars.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\Stars.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\Stars.genruntimeconfig.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\Stars\obj\Debug\net8.0-windows\ref\Stars.dll
