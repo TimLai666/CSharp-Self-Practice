@@ -1,0 +1,17 @@
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\bin\Debug\net8.0-windows\prjGetMax01.exe
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\bin\Debug\net8.0-windows\prjGetMax01.deps.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\bin\Debug\net8.0-windows\prjGetMax01.runtimeconfig.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\bin\Debug\net8.0-windows\prjGetMax01.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\bin\Debug\net8.0-windows\prjGetMax01.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\prjGetMax01.Form1.resources
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\prjGetMax01.csproj.GenerateResource.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\prjGetMax01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\prjGetMax01.AssemblyInfoInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\prjGetMax01.AssemblyInfo.cs
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\prjGetMax01.csproj.CoreCompileInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\prjGetMax01.sourcelink.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\prjGetMax01.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\refint\prjGetMax01.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\prjGetMax01.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\prjGetMax01.genruntimeconfig.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjGetMax01\obj\Debug\net8.0-windows\ref\prjGetMax01.dll
