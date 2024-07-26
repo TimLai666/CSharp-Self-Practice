@@ -1,0 +1,17 @@
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\bin\Debug\net8.0-windows\prjAry2D.exe
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\bin\Debug\net8.0-windows\prjAry2D.deps.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\bin\Debug\net8.0-windows\prjAry2D.runtimeconfig.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\bin\Debug\net8.0-windows\prjAry2D.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\bin\Debug\net8.0-windows\prjAry2D.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\prjAry2D.Form1.resources
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\prjAry2D.csproj.GenerateResource.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\prjAry2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\prjAry2D.AssemblyInfoInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\prjAry2D.AssemblyInfo.cs
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\prjAry2D.csproj.CoreCompileInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\prjAry2D.sourcelink.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\prjAry2D.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\refint\prjAry2D.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\prjAry2D.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\prjAry2D.genruntimeconfig.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjAry2D\obj\Debug\net8.0-windows\ref\prjAry2D.dll
