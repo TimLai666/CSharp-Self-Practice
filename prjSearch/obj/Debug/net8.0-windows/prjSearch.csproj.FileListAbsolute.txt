@@ -1,0 +1,17 @@
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\bin\Debug\net8.0-windows\prjSearch.exe
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\bin\Debug\net8.0-windows\prjSearch.deps.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\bin\Debug\net8.0-windows\prjSearch.runtimeconfig.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\bin\Debug\net8.0-windows\prjSearch.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\bin\Debug\net8.0-windows\prjSearch.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\prjSearch.Form1.resources
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\prjSearch.csproj.GenerateResource.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\prjSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\prjSearch.AssemblyInfoInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\prjSearch.AssemblyInfo.cs
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\prjSearch.csproj.CoreCompileInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\prjSearch.sourcelink.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\prjSearch.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\refint\prjSearch.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\prjSearch.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\prjSearch.genruntimeconfig.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\prjSearch\obj\Debug\net8.0-windows\ref\prjSearch.dll
