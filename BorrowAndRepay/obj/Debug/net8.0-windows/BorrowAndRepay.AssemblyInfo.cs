@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BorrowAndRepay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4906b46d90ab79944f8487ec738957595196ee38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3148631608beec3d7d452c6d7f8e3d329c9ec96")]
 [assembly: System.Reflection.AssemblyProductAttribute("BorrowAndRepay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BorrowAndRepay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

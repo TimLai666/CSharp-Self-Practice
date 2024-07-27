@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{9A907EC3-226C-4E48-B819-6EB05BEE42B1}|BorrowAndRepay.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A907EC3-226C-4E48-B819-6EB05BEE42B1}|BorrowAndRepay.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\borrowandrepay\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9A907EC3-226C-4E48-B819-6EB05BEE42B1}|BorrowAndRepay.csproj|C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\BorrowAndRepay\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9A907EC3-226C-4E48-B819-6EB05BEE42B1}|BorrowAndRepay.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\BorrowAndRepay\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAIA4wDIAAAAiAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwBsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T05:33:08.366Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Person.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAYwB0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T05:30:24.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T05:30:24.945Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "ToolTip": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\BorrowAndRepay\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T04:47:24.033Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2024-07-27T04:47:24.033Z"
             }
           ]
         }
