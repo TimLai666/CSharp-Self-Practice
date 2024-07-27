@@ -1,0 +1,17 @@
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\bin\Debug\net8.0-windows\BorrowAndRepay.exe
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\bin\Debug\net8.0-windows\BorrowAndRepay.deps.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\bin\Debug\net8.0-windows\BorrowAndRepay.runtimeconfig.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\bin\Debug\net8.0-windows\BorrowAndRepay.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\bin\Debug\net8.0-windows\BorrowAndRepay.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\BorrowAndRepay.Form1.resources
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\BorrowAndRepay.csproj.GenerateResource.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\BorrowAndRepay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\BorrowAndRepay.AssemblyInfoInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\BorrowAndRepay.AssemblyInfo.cs
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\BorrowAndRepay.csproj.CoreCompileInputs.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\BorrowAndRepay.sourcelink.json
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\BorrowAndRepay.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\refint\BorrowAndRepay.dll
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\BorrowAndRepay.pdb
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\BorrowAndRepay.genruntimeconfig.cache
+C:\Users\tingz\Desktop\c#\CSharp-Self-Practice\BorrowAndRepay\obj\Debug\net8.0-windows\ref\BorrowAndRepay.dll
