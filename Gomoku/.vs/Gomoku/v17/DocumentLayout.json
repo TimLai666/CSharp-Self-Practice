@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\gomoku\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\gomoku\\whitepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:whitepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\gomoku\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\gomoku\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\gomoku\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\gomoku\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\gomoku\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\gomoku\\blackpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:blackpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\gomoku\\whitepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:whitepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|c:\\users\\tingz\\desktop\\c#\\csharp-self-practice\\gomoku\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{060C0C8F-CC05-4109-B695-BFAB592741D8}|Gomoku.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +42,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA4wBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T08:15:57.5Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -43,58 +65,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "PieceType.cs",
+              "DocumentMoniker": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\PieceType.cs",
+              "RelativeDocumentMoniker": "PieceType.cs",
+              "ToolTip": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\PieceType.cs",
+              "RelativeToolTip": "PieceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:58:36.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:05:03.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "WhitePiece.cs",
               "DocumentMoniker": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\WhitePiece.cs",
               "RelativeDocumentMoniker": "WhitePiece.cs",
               "ToolTip": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\WhitePiece.cs",
               "RelativeToolTip": "WhitePiece.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA5wA0AAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T09:38:29.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BlackPiece.cs",
               "DocumentMoniker": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\BlackPiece.cs",
               "RelativeDocumentMoniker": "BlackPiece.cs",
               "ToolTip": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\BlackPiece.cs",
               "RelativeToolTip": "BlackPiece.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T08:41:10.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA6wA8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T08:15:57.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Piece.cs",
               "DocumentMoniker": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\Piece.cs",
               "RelativeDocumentMoniker": "Piece.cs",
               "ToolTip": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\Piece.cs",
               "RelativeToolTip": "Piece.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA8wAsAAAA2AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA8wBEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T08:11:58.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\Resources.resx",
               "RelativeDocumentMoniker": "Resources.resx",
@@ -106,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Users\\tingz\\Desktop\\c#\\CSharp-Self-Practice\\Gomoku\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

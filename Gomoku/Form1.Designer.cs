@@ -35,13 +35,14 @@
             AutoScaleDimensions = new SizeF(9F, 19F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Resources.board;
-            ClientSize = new Size(751, 736);
+            ClientSize = new Size(765, 736);
             MaximumSize = new Size(783, 783);
             Name = "Form1";
             StartPosition = FormStartPosition.WindowsDefaultBounds;
             Text = "五子棋";
             Load += Form1_Load;
             MouseClick += Form1_MouseClick;
+            MouseMove += Form1_MouseMove;
             ResumeLayout(false);
         }
 

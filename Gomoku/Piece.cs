@@ -14,7 +14,8 @@ namespace Gomoku
         public Piece(int x, int y)
         {
             this.BackColor = Color.Transparent;
-            this.Location = new Point(x - (IMAGE_WIDTH / 2), y - (IMAGE_HEIGHT / 2));
+            Point p = new Point(x - (IMAGE_WIDTH / 2), y - (IMAGE_HEIGHT / 2));
+            this.Location = p;
             this.Size = new Size(50, 50);
         }
     }

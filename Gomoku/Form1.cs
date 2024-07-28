@@ -1,19 +1,27 @@
+using System.Drawing;
+
 namespace Gomoku
 {
     public partial class Form1 : Form
     {
-        private bool isBlack = true;
+        private PieceType nextPieceType = PieceType.Black;
+        private Board board = new Board();
 
         public Form1()
         {
             InitializeComponent();
         }
 
-        private void createPiece(int x, int y)
+        private void CreatePiece(int x, int y)
         {
-            Piece newPiece = isBlack ? new BlackPiece(x, y) : new WhitePiece(x, y);
+            Piece newPiece = board.PlaceAPiece(x, y, nextPieceType);
+            if (newPiece == null)
+                return;
+            Point p = newPiece.Location;
+            p.X = p.X * Board.NODE_DISTANCE + Board.OFFSET;
+            p.Y = p.Y * Board.NODE_DISTANCE + Board.OFFSET;
             this.Controls.Add(newPiece);
-            isBlack = !isBlack;
+            nextPieceType = 1 - nextPieceType;
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -28,7 +36,15 @@ namespace Gomoku
 
         private void Form1_MouseClick(object sender, MouseEventArgs e)
         {
-            createPiece(e.X, e.Y);
+            CreatePiece(e.X, e.Y);
+        }
+
+        private void Form1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (board.CanBePlaced(e.X, e.Y))
+                this.Cursor = Cursors.Hand;
+            else
+                this.Cursor = Cursors.Default;
         }
     }
 }
