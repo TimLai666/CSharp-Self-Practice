@@ -41,6 +41,7 @@
             StartPosition = FormStartPosition.WindowsDefaultBounds;
             Text = "五子棋";
             Load += Form1_Load;
+            MouseClick += Form1_MouseClick;
             ResumeLayout(false);
         }
 
