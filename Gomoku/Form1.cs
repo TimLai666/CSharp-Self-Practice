@@ -17,9 +17,6 @@ namespace Gomoku
             Piece newPiece = board.PlaceAPiece(x, y, nextPieceType);
             if (newPiece == null)
                 return;
-            Point p = newPiece.Location;
-            p.X = p.X * Board.NODE_DISTANCE + Board.OFFSET;
-            p.Y = p.Y * Board.NODE_DISTANCE + Board.OFFSET;
             this.Controls.Add(newPiece);
             nextPieceType = 1 - nextPieceType;
         }

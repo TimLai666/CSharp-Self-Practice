@@ -9,9 +9,9 @@ namespace Gomoku
 {
     internal class Board
     {
-        public static readonly int OFFSET = 75;
+        private static readonly int OFFSET = 75;
         private static readonly int NODE_RADIUS = 10;
-        public static readonly int NODE_DISTANCE = 75;
+        private static readonly int NODE_DISTANCE = 75;
         private static readonly Point NO_MATCH_NODE = new Point(-1, -1);
         
         private Piece[,] pieces = new Piece[9, 9];
@@ -42,13 +42,16 @@ namespace Gomoku
             switch (type) {
                 case PieceType.Black:
                     pieces[point.X, point.Y] = new BlackPiece(point.X, point.Y);
-                    return pieces[point.X, point.Y];
+                    break;
                 case PieceType.White:
                     pieces[point.X, point.Y] = new WhitePiece(point.X, point.Y);
-                    return pieces[point.X, point.Y];
+                    break;
                 default:
                     return null;
             }
+            Piece piece = pieces[point.X, point.Y];
+            piece.Location = new Point(point.X * NODE_DISTANCE + OFFSET, point.Y * NODE_DISTANCE + OFFSET);
+            return piece;
         }
 
         private Point FindTheClosestNode(int x, int y)
