@@ -18,7 +18,6 @@ namespace Gomoku
             if (newPiece == null)
                 return;
             this.Controls.Add(newPiece);
-            nextPieceType = 1 - nextPieceType;
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -34,6 +33,12 @@ namespace Gomoku
         private void Form1_MouseClick(object sender, MouseEventArgs e)
         {
             CreatePiece(e.X, e.Y);
+            if (board.CheckWinner())
+                if (nextPieceType == PieceType.Black)
+                    MessageBox.Show("Black Wins");
+                else
+                    MessageBox.Show("White Wins");
+            nextPieceType = 1 - nextPieceType;
         }
 
         private void Form1_MouseMove(object sender, MouseEventArgs e)

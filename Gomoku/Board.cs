@@ -50,8 +50,83 @@ namespace Gomoku
                     return null;
             }
             Piece piece = pieces[point.X, point.Y];
-            piece.Location = new Point(point.X * NODE_DISTANCE + OFFSET, point.Y * NODE_DISTANCE + OFFSET);
+            piece.Location = new Point(point.X * NODE_DISTANCE + OFFSET - Piece.IMAGE_WIDTH/2, point.Y * NODE_DISTANCE + OFFSET - Piece.IMAGE_HEIGHT/2);
             return piece;
+        }
+
+        public bool CheckWinner()
+        {
+            for (int i = 0; i < 9; i++)
+            {
+                for (int j = 0; j < 9; j++)
+                {
+                    if (pieces[i, j] == null)
+                        continue;
+                    if (CheckHorizontal(i, j) || CheckVertical(i, j) || CheckLeftDiagonal(i, j) || CheckRightDiagonal(i, j))
+                        return true;
+                }
+            }
+            return false;
+        }
+
+        private bool CheckRightDiagonal(int i, int j)
+        {
+            for (int x = i - 4, y = j + 4; x <= i && y >= j; x++, y--)
+            {
+                if (x < 0 || y >= 9 || x + 4 >= 9 || y - 4 < 0)
+                    continue;
+                if (pieces[x, y] != null && pieces[x + 1, y - 1] != null && pieces[x + 2, y - 2] != null && pieces[x + 3, y - 3] != null && pieces[x + 4, y - 4] != null)
+                {
+                    if (pieces[x, y].Type == pieces[x + 1, y - 1].Type && pieces[x, y].Type == pieces[x + 2, y - 2].Type && pieces[x, y].Type == pieces[x + 3, y - 3].Type && pieces[x, y].Type == pieces[x + 4, y - 4].Type)
+                        return true;
+                }
+            }
+            return false;
+        }
+
+        private bool CheckLeftDiagonal(int i, int j)
+        {
+            for (int x = i - 4, y = j - 4; x <= i && y <= j; x++, y++)
+            {
+                if (x < 0 || y < 0 || x + 4 >= 9 || y + 4 >= 9)
+                    continue;
+                if (pieces[x, y] != null && pieces[x + 1, y + 1] != null && pieces[x + 2, y + 2] != null && pieces[x + 3, y + 3] != null && pieces[x + 4, y + 4] != null)
+                {
+                    if (pieces[x, y].Type == pieces[x + 1, y + 1].Type && pieces[x, y].Type == pieces[x + 2, y + 2].Type && pieces[x, y].Type == pieces[x + 3, y + 3].Type && pieces[x, y].Type == pieces[x + 4, y + 4].Type)
+                        return true;
+                }
+            }
+            return false;
+        }
+
+        private bool CheckVertical(int i, int j)
+        {
+            for (int y = j - 4; y <= j; y++)
+            {
+                if (y < 0 || y + 4 >= 9)
+                    continue;
+                if (pieces[i, y] != null && pieces[i, y + 1] != null && pieces[i, y + 2] != null && pieces[i, y + 3] != null && pieces[i, y + 4] != null)
+                {
+                    if (pieces[i, y].Type == pieces[i, y + 1].Type && pieces[i, y].Type == pieces[i, y + 2].Type && pieces[i, y].Type == pieces[i, y + 3].Type && pieces[i, y].Type == pieces[i, y + 4].Type)
+                        return true;
+                }
+            }
+            return false;
+        }
+
+        private bool CheckHorizontal(int i, int j)
+        {
+            for (int x = i - 4; x <= i; x++)
+            {
+                if (x < 0 || x + 4 >= 9)
+                    continue;
+                if (pieces[x, j] != null && pieces[x + 1, j] != null && pieces[x + 2, j] != null && pieces[x + 3, j] != null && pieces[x + 4, j] != null)
+                {
+                    if (pieces[x, j].Type == pieces[x + 1, j].Type && pieces[x, j].Type == pieces[x + 2, j].Type && pieces[x, j].Type == pieces[x + 3, j].Type && pieces[x, j].Type == pieces[x + 4, j].Type)
+                        return true;
+                }
+            }
+            return false;
         }
 
         private Point FindTheClosestNode(int x, int y)

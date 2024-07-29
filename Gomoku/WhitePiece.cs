@@ -11,6 +11,7 @@ namespace Gomoku
         public WhitePiece(int x, int y): base(x, y)
         {
             this.Image = Resources.white;
+            this.Type = PieceType.White;
         }
     }
 }

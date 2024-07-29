@@ -8,8 +8,9 @@ namespace Gomoku
 {
     internal abstract class Piece: PictureBox
     {
-        private static readonly int IMAGE_WIDTH = 50;
-        private static readonly int IMAGE_HEIGHT = 50;
+        public static readonly int IMAGE_WIDTH = 50;
+        public static readonly int IMAGE_HEIGHT = 50;
+        public PieceType Type;
 
         public Piece(int x, int y)
         {
